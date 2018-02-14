@@ -1,6 +1,9 @@
 # mycroft-avatar
 Adds a virtual character in an X session. WIP
 
+# screenshot
+![alt text](https://github.com/tjoen/mycroft-avatar/blob/master/example.jpg "Screenshot")
+
 # installation
 * copy the script and chars dir to /home/pi/
 * install pyglet first with: pip install pyglet
@@ -18,4 +21,4 @@ Mycroft has the following mouthshapes:
 
 Blinking is not yet handled correctly by this script.
 
-![alt text](https://github.com/tjoen/mycroft-avatar/blob/master/example.jpg "Screenshot")
+
