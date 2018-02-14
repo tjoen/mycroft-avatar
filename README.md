@@ -1,6 +1,11 @@
 # mycroft-avatar
 Adds a virtual character in an X session. WIP
 
+# installation
+ 1> copy the script and chars dir to /home/pi/
+ 2> install pyglet first with: pip install pyglet
+ 3> then in an X session run this script: python avatar.py
+
 Mycroft has the following mouthshapes:
 
 - 0 = shape for sounds like 'y' or 'aa'
