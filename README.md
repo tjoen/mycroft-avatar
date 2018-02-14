@@ -17,3 +17,5 @@ Mycroft has the following mouthshapes:
 - 6 = shape for sounds like 'oy' or 'ao'
 
 Blinking is not yet handled correctly by this script.
+
+![alt text](https://github.com/tjoen/mycroft-avatar/example.jpg "Screenshot")
