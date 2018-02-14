@@ -18,4 +18,4 @@ Mycroft has the following mouthshapes:
 
 Blinking is not yet handled correctly by this script.
 
-![alt text](https://github.com/tjoen/mycroft-avatar/example.jpg "Screenshot")
+![alt text](https://github.com/tjoen/mycroft-avatar/blob/master/example.jpg "Screenshot")
